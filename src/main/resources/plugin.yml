@@ -1,0 +1,8 @@
+name: NoJoinSpam
+main: com.platymuus.bukkit.nojoinspam.NoJoinSpamMain
+author: SpaceManiac
+version: 1.0
+commands:
+  player:
+    description: Toggle anti-join-spam on or off.
+    usage: /<command> - toggle join messages
